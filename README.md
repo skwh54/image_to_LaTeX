@@ -4,7 +4,7 @@
 ```
 pip install -r requirements.txt
 ```
-### Downloads Ollama models 
+### Download Ollama models 
 ```
 ollama pull gemma3:latest
 
